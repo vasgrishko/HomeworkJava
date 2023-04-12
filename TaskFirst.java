@@ -36,38 +36,6 @@ public class TaskFirst {
         
         
         
-//         getRandomArr(10);
-//         getMinMaxElArr;
-//     }
-          
-//     public static void getRandomArr(int size) {
-//         int[] arr = new int[size];
-//         Random random = new Random();
-//         for (int i = 0; i < arr.length; i++) {
-//             arr[i] = random.nextInt(100);
-//         }
-//         System.out.println(Arrays.toString(arr));
-//     } 
-    
-//     public static void getMinMaxElArr(int [] Array) {
-//         int MinEl = Array[0];
-//         int MaxEl = Array[0];
-//         for (int num : Array) {
-//             if (num < MinEl) {
-//                 MinEl = num;
-
-//             if (num > MaxEl && num > MinEl) {
-//                 MaxEl = num;
-//             }
-//             }
-//         }
-//         System.out.println(Arrays.toString(Array));
-//         System.out.printf("Минимальное значение %s", MinEl);
-//         System.out.printf("Максимальное значение %s", MaxEl);
-//     }
-// }
-
-
 
    
 
